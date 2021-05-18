@@ -15,6 +15,7 @@ function App() {
         >
           Learn React
         </a>
+        <button className="btn-primary">Help all</button>
       </header>
     </div>
   );
